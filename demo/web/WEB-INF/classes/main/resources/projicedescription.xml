@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--<!DOCTYPE note SYSTEM "description.dtd">-->
+<!DOCTYPE description [
+        <!ELEMENT description (project_name,project_version,project_year,project_month,project_day,project_description,docu_author)>
+        <!ELEMENT project_name (#PCDATA)>
+        <!ELEMENT project_version (#PCDATA)>
+        <!ELEMENT project_year (#PCDATA)>
+        <!ELEMENT project_month (#PCDATA)>
+        <!ELEMENT project_day (#PCDATA)>
+        <!ELEMENT project_description (#PCDATA)>
+        <!ELEMENT docu_author (#PCDATA)>
+        ]>
+<description>
+    <project_name></project_name>
+    <project_version></project_version>
+    <project_year></project_year>
+    <project_month></project_month>
+    <project_day></project_day>
+    <project_description></project_description>
+    <docu_author></docu_author>
+</description>

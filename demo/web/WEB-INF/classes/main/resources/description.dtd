@@ -1,0 +1,9 @@
+<!DOCTYPE description [
+        <!ELEMENT description (project_name,project_version,project_year,project_month,project_day,docu_author)>
+        <!ELEMENT project_name (#PCDATA)>
+        <!ELEMENT project_version (#PCDATA)>
+        <!ELEMENT project_year (#PCDATA)>
+        <!ELEMENT project_month (#PCDATA)>
+        <!ELEMENT project_day (#PCDATA)>
+        <!ELEMENT docu_author (#PCDATA)>
+        ]>

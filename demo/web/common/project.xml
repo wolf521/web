@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<description>
+    <project id="project1">
+        <project_name>demo</project_name>
+        <project_version>1.0</project_version>
+        <project_date>2017-11-20</project_date>
+        <project_description>一个简单的web示例</project_description>
+        <docu_author>小明</docu_author>
+    </project>
+    <project id="project2">
+        <project_name>demo</project_name>
+        <project_version>1.1</project_version>
+        <project_date>2017-11-21</project_date>
+        <project_description>一个简单的web示例</project_description>
+        <docu_author>小明</docu_author>
+    </project>
+</description>
