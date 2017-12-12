@@ -1,5 +1,8 @@
 package main.java.web;
 
+import main.java.model.Student;
+import main.java.model.User;
+
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
@@ -17,6 +20,9 @@ public class LoginServlet extends HttpServlet {
         String account = request.getParameter("account");
         String pass = request.getParameter("pass");
         PrintWriter writer = response.getWriter();
+        request.getSession().setAttribute("user",new User());
+        request.getSession().removeAttribute("user");
+        request.getSession().setAttribute("student",new Student());
         writer.println("<html>");
         writer.println("<head>");
         writer.println("<title>测试</title>");

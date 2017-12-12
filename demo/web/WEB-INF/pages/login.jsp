@@ -11,6 +11,10 @@
         <title>Title</title>
     </head>
     <body>
+        <body>
+        在线人数：<%=session.getAttribute("userNumber") %><br/>
+        <%=session.getAttribute("student") %><br/>
+        </body>
         <form action="LoginServlet" method="post">
             用户名：<input type="text" name="account"/><br/>
             密码：<input type="text" name="pass"/>
