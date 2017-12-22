@@ -5,62 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa16fdd4-8426-4dd5-850c-8e911fae08ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/web/WEB-INF/lib/dom4j-2.1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/web/WEB-INF/lib/jdom-2.0.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/web/user_service/XmlServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/SaxHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/XmlDom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/XmlDom4j.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/XmlJdom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/XmlProject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/xmlutil/XmlSax.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/demo/src/main/resources/project.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/src/main/resources/projicedescription.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/database.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/description.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/images/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/mailConfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/dao/UserDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/model/ResponseResult.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/model/User.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/service_center/ServiceCenterUserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/ConnectMySql.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/DataBaseProperties.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/DatabaseConnectionPool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/DateUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/EmailHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/ErrorException.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/ExportExcel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/IDGenerator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/ImportUserInfo.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/util/MailConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/CookieServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/DatabaseConnectionPoolServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/DownloadServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/IpFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/LoginServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/ReadServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/SessionServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/SetCharacterEncodingFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/UploadServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/WriteServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/user_service/MailServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web/user_service/UserServlet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/java/web_service/web_user_service/UserService.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/database.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/description.dtd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/images/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/images/2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/images/3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/mailConfig.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/main/resources/projicedescription.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/projicedescription.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/test/UserServiceTest.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/book.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../web/rss.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/demo/demo.iml" afterPath="$PROJECT_DIR$/../web/demo/demo.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/../web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1019,7 +966,7 @@
       <workItem from="1513755939891" duration="7453000" />
       <workItem from="1513818506047" duration="14647000" />
       <workItem from="1513844288608" duration="4078000" />
-      <workItem from="1513905465080" duration="5791000" />
+      <workItem from="1513905465080" duration="5865000" />
     </task>
     <task id="LOCAL-00001" summary="信息">
       <created>1512617982145</created>
@@ -1063,7 +1010,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513748873744</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="xml操作">
+      <created>1513912243975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1513912243975</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1099,7 +1053,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152039000" />
+    <option name="totallyTimeSpent" value="152113000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1159,7 +1113,8 @@
     <MESSAGE value="信息" />
     <MESSAGE value="javamail" />
     <MESSAGE value="监听" />
-    <option name="LAST_COMMIT_MESSAGE" value="监听" />
+    <MESSAGE value="xml操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1462,6 +1417,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1469,6 +1425,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
