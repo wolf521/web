@@ -57,7 +57,6 @@
             <button type="submit">入用户信息</button>
         </form>
         <br/>
-        <a href="/xml">xml操作</a><br/>
         <a href="/email">发送邮件</a><br/>
     </body>
 </html>
