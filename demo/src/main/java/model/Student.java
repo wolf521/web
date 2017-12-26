@@ -8,9 +8,13 @@ import java.io.Serializable;
  * Created by Administrator on 2017/12/12.
  */
 public class Student implements HttpSessionActivationListener,Serializable{
-
+    /**
+     * 姓名
+     */
     private String name;
-
+    /**
+     * 年龄
+     */
     private Integer age;
 
     @Override
