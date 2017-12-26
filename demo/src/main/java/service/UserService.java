@@ -7,6 +7,7 @@ import main.java.service_center.ServiceCenterUserService;
 
 /**
  * Created by Administrator on 2017/11/17.
+ * 员工service
  */
 public class UserService implements ServiceCenterUserService {
 

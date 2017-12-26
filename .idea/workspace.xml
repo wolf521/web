@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa16fdd4-8426-4dd5-850c-8e911fae08ef" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../web/demo/src/main/java/util/project.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/demo/src/main/java/model/Student.java" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/model/Student.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/demo/src/main/java/service/UserService.java" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/service/UserService.java" />
     </list>
     <ignored path="$PROJECT_DIR$/../web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,12 +82,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/model/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="729">
+              <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+              <folding>
+                <element signature="e#632#633#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#704#705#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#761#762#0" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#573#574#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1092,7 +1115,7 @@
       <workItem from="1513905465080" duration="10889000" />
       <workItem from="1514164293057" duration="1356000" />
       <workItem from="1514196162105" duration="10000" />
-      <workItem from="1514272336566" duration="596000" />
+      <workItem from="1514272336566" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="信息">
       <created>1512617982145</created>
@@ -1157,7 +1180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513922188973</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="添加注释">
+      <created>1514272971472</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514272971472</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1193,7 +1223,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159099000" />
+    <option name="totallyTimeSpent" value="159984000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1256,7 +1286,8 @@
     <MESSAGE value="监听" />
     <MESSAGE value="xml操作" />
     <MESSAGE value="bug修改" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug修改" />
+    <MESSAGE value="添加注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加注释" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1457,13 +1488,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/service_center/ServiceCenterXmlService.java" />
-    <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/util/project.xml" />
     <entry file="file://$PROJECT_DIR$/../web/demo/web/WEB-INF/classes/project.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1611,9 +1635,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/model/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="729">
+          <caret line="29" column="29" lean-forward="false" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../web/demo/src/main/java/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
