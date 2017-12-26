@@ -11,6 +11,7 @@ import java.io.PrintWriter;
 
 /**
  * Created by Administrator on 2017/11/16.
+ * cookieservlet
  */
 @WebServlet(name = "CookieServlet",urlPatterns = {"/CookieServlet"})
 public class CookieServlet extends HttpServlet {
