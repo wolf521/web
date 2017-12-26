@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/../web/demo/src/main/java/model/Student.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa16fdd4-8426-4dd5-850c-8e911fae08ef" name="Default" comment="添加注释">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../web/demo/src/main/java/web/CookieServlet.java" afterPath="$PROJECT_DIR$/../web/demo/src/main/java/web/CookieServlet.java" />
-    </list>
+    <list default="true" id="fa16fdd4-8426-4dd5-850c-8e911fae08ef" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/../web/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -1113,7 +1110,7 @@
       <workItem from="1513905465080" duration="10889000" />
       <workItem from="1514164293057" duration="1356000" />
       <workItem from="1514196162105" duration="10000" />
-      <workItem from="1514272336566" duration="1926000" />
+      <workItem from="1514272336566" duration="1938000" />
     </task>
     <task id="LOCAL-00001" summary="信息">
       <created>1512617982145</created>
@@ -1192,7 +1189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1514273853974</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="添加注释">
+      <created>1514274293819</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514274293819</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1228,7 +1232,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160429000" />
+    <option name="totallyTimeSpent" value="160441000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -1240,7 +1244,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
