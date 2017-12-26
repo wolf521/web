@@ -14,6 +14,7 @@ import java.util.List;
 
 /**
  * Created by Administrator on 2017/11/17.
+ * 用户service
  */
 public class UserService {
     private ServiceCenterUserService serviceCenterUserService = new main.java.service.UserService();
